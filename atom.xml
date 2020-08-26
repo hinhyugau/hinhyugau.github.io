@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lol</title>
+  
+  
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-26T12:50:41.636Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jim bryan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>index</title>
+    <link href="http://yoursite.com/2020/08/26/index/"/>
+    <id>http://yoursite.com/2020/08/26/index/</id>
+    <published>2020-08-26T12:50:25.000Z</published>
+    <updated>2020-08-26T12:50:41.636Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
