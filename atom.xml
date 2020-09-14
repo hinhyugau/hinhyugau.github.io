@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>lol</title>
+  <title>I am who I am</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="https://hinhyugau.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-08-26T12:50:41.636Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://hinhyugau.github.io/"/>
+  <updated>2020-09-14T12:46:35.223Z</updated>
+  <id>https://hinhyugau.github.io/</id>
   
   <author>
     <name>Jim bryan</name>
@@ -17,15 +17,111 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>index</title>
-    <link href="http://yoursite.com/2020/08/26/index/"/>
-    <id>http://yoursite.com/2020/08/26/index/</id>
-    <published>2020-08-26T12:50:25.000Z</published>
-    <updated>2020-08-26T12:50:41.636Z</updated>
+    <title>dockerInstall</title>
+    <link href="https://hinhyugau.github.io/2020/09/14/dockerInstall/"/>
+    <id>https://hinhyugau.github.io/2020/09/14/dockerInstall/</id>
+    <published>2020-09-14T12:45:10.000Z</published>
+    <updated>2020-09-14T12:46:35.223Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="what-is-docker"><a href="#what-is-docker" class="headerlink" title="what is docker"></a>what is docker</h2><h5 id="docker-is-collection-can-run-other-soft"><a href="#docker-is-collection-can-run-other-soft" class="headerlink" title="docker is collection can run other soft"></a>docker is collection can run other soft</h5>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;about-doucker&quot;&gt;&lt;a href=&quot;#about-doucker&quot; class=&quot;headerlink&quot; title=&quot;about doucker&quot;&gt;&lt;/a&gt;about doucker&lt;/h2&gt;</summary>
     
     
     
+    <category term="server" scheme="https://hinhyugau.github.io/categories/server/"/>
     
+    
+    <category term="docker" scheme="https://hinhyugau.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My poto</title>
+    <link href="https://hinhyugau.github.io/2020/09/14/poto/"/>
+    <id>https://hinhyugau.github.io/2020/09/14/poto/</id>
+    <published>2020-09-14T07:59:11.000Z</published>
+    <updated>2020-09-14T12:05:58.943Z</updated>
+    
+    <content type="html"><![CDATA[<img src="http://qflw7x1lt.hd-bkt.clouddn.com/images/OIP.jpg">]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;asdasdasdas&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="poto" scheme="https://hinhyugau.github.io/categories/poto/"/>
+    
+    
+    <category term="run" scheme="https://hinhyugau.github.io/tags/run/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How Digital operation in java</title>
+    <link href="https://hinhyugau.github.io/2020/09/14/operationNum/"/>
+    <id>https://hinhyugau.github.io/2020/09/14/operationNum/</id>
+    <published>2020-09-14T06:38:55.000Z</published>
+    <updated>2020-09-14T12:05:58.943Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="In-live-number-operation-is-prefix-but-in-java-number-operation-is-suffux"><a href="#In-live-number-operation-is-prefix-but-in-java-number-operation-is-suffux" class="headerlink" title="In live number operation is prefix but in java number operation is suffux"></a>In live number operation is prefix but in java number operation is suffux</h4><h2 id="What-is-a-prefix-operation"><a href="#What-is-a-prefix-operation" class="headerlink" title="What is a prefix operation"></a>What is a prefix operation</h2><h4 id="For-example-2-3-7-5-this-is-number-operation-prefix-is-first-operation-7-5-second-operation-3-7-5-last-operation-2-add-second-value"><a href="#For-example-2-3-7-5-this-is-number-operation-prefix-is-first-operation-7-5-second-operation-3-7-5-last-operation-2-add-second-value" class="headerlink" title="For example 2+3*(7-5) this is number operation prefix is first operation 7-5 second operation 3*(7-5) last operation 2 add second value"></a>For example 2+3*(7-5) this is number operation prefix is first operation 7-5 second operation 3*(7-5) last operation 2 add second value</h4><h2 id="What-is-a-suffix-operation"><a href="#What-is-a-suffix-operation" class="headerlink" title="What is a suffix operation"></a>What is a suffix operation</h2><h4 id="For-example-2-3-7-5-in-java-operation-order-is-take-number-2-3-7-5-push-into-stack-operation-alone-take-out-other-stack-number-operation-first-stack-popu-tow-number-and-with-second-stack-popu-one-operation-make-calculations-operation-result-remainder-push-first-stack-if-not-have-remainder-push-zero-Do-the-previous-operation-until-result-is-zero"><a href="#For-example-2-3-7-5-in-java-operation-order-is-take-number-2-3-7-5-push-into-stack-operation-alone-take-out-other-stack-number-operation-first-stack-popu-tow-number-and-with-second-stack-popu-one-operation-make-calculations-operation-result-remainder-push-first-stack-if-not-have-remainder-push-zero-Do-the-previous-operation-until-result-is-zero" class="headerlink" title="For example 2+3*(7-5) in java operation order is take number 2,3,7,5 push into stack. operation alone take out other stack. number operation first stack popu tow number and with second stack popu one operation make calculations. operation result remainder  push first stack if not have remainder push zero. Do the previous operation until result is zero."></a>For example 2+3*(7-5) in java operation order is take number 2,3,7,5 push into stack. operation alone take out other stack. number operation first stack popu tow number and with second stack popu one operation make calculations. operation result remainder  push first stack if not have remainder push zero. Do the previous operation until result is zero.</h4>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Number-operation&quot;&gt;&lt;a href=&quot;#Number-operation&quot; class=&quot;headerlink&quot; title=&quot;Number operation&quot;&gt;&lt;/a&gt;Number operation&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="java basic" scheme="https://hinhyugau.github.io/categories/java-basic/"/>
+    
+    
+    <category term="stack" scheme="https://hinhyugau.github.io/tags/stack/"/>
+    
+    <category term="java operation" scheme="https://hinhyugau.github.io/tags/java-operation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>collection</title>
+    <link href="https://hinhyugau.github.io/2020/08/27/conllection/"/>
+    <id>https://hinhyugau.github.io/2020/08/27/conllection/</id>
+    <published>2020-08-26T22:56:08.000Z</published>
+    <updated>2020-08-26T23:36:32.433Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="collection-1"><a href="#collection-1" class="headerlink" title="collection"></a>collection</h2><ul><li>collection is spuer set. collection belong java.util.*</li><li>collection can set data change order Linked</li><li>collection contain<ol><li>List<ol><li>order collection</li><li>sort by index</li></ol></li><li>Set <ol><li>No duplicate collection</li></ol></li><li>Map<ol><li>by key-value set data</li></ol></li></ol></li><li>collection can get iterator() because all collection implments Iterator</li></ul><hr><h4 id="1-List"><a href="#1-List" class="headerlink" title="1. List"></a>1. List</h4><pre><code>1. List is inertface his implments have ArrayList LinkedList2. new ArrayList&lt;String&gt;();   this is collection only set string data type</code></pre>]]></content>
+    
+    
+    <summary type="html">&lt;h4 id=&quot;collection&quot;&gt;&lt;a href=&quot;#collection&quot; class=&quot;headerlink&quot; title=&quot;collection&quot;&gt;&lt;/a&gt;collection&lt;/h4&gt;</summary>
+    
+    
+    
+    <category term="conllection" scheme="https://hinhyugau.github.io/categories/conllection/"/>
+    
+    
+    <category term="java" scheme="https://hinhyugau.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>data type String in java</title>
+    <link href="https://hinhyugau.github.io/2020/08/25/index/"/>
+    <id>https://hinhyugau.github.io/2020/08/25/index/</id>
+    <published>2020-08-25T07:42:29.000Z</published>
+    <updated>2020-09-14T12:43:50.357Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h3 id="1-byte"><a href="#1-byte" class="headerlink" title="1. byte"></a>1. byte</h3><hr><h3 id="2-short"><a href="#2-short" class="headerlink" title="2. short"></a>2. short</h3><hr><h3 id="3-int"><a href="#3-int" class="headerlink" title="3. int"></a>3. int</h3><hr><h3 id="4-long"><a href="#4-long" class="headerlink" title="4. long"></a>4. long</h3>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Preface&quot;&gt;&lt;a href=&quot;#Preface&quot; class=&quot;headerlink&quot; title=&quot;Preface&quot;&gt;&lt;/a&gt;Preface&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;this is data type for java &lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="java basic" scheme="https://hinhyugau.github.io/categories/java-basic/"/>
+    
+    
+    <category term="data type" scheme="https://hinhyugau.github.io/tags/data-type/"/>
     
   </entry>
   
